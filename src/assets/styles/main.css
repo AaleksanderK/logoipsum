@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import "normalize.css";
+@import "header.css";
+@import "introduction.css";
+@import "description.css";
+.container{
+    max-width: 1116px;
+    margin: 0 auto;
+}
