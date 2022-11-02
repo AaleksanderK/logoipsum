@@ -1,0 +1,53 @@
+.introduction__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.introduction-text__title {
+  max-width: 462px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 77px;
+  margin: 92px 0 30px;
+}
+
+.introduction-text__paragraph {
+  font-family: "Mulish";
+  font-weight: 400;
+  font-size: 20px;
+  max-width: 462px;
+}
+
+.button__violet {
+  background-color: #5454d4;
+}
+.introduction__logos {
+  display: flex;
+  justify-content: space-between;
+}
+
+.description-cards {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 138px;
+}
+.description-cards__card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.description-cards__title {
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 24px;
+  margin: 0;
+  padding: 20px 0;
+}
+.description-cards__subtitle {
+  font-family: 'Mulish';
+  font-size: 16px;
+  max-width: 307px;
+  text-align: center;
+  margin: 0;
+}
